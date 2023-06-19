@@ -1,0 +1,14 @@
+<!DOCTYPE html><html><head>
+<style>
+p.center
+{
+text-align:center;
+color:blue;
+}
+</style>
+</head>
+<body>
+<h1 class="center">Blue and center-aligned as heading </h1>
+<p class="center">Blue and center aligned as paragraph </p>
+</body>
+</html>
